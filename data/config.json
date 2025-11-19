@@ -1,0 +1,19 @@
+{
+  "categories": [
+    "Alimentación",
+    "Transporte",
+    "Renta",
+    "Colegiatura",
+    "Libros y material",
+    "Salud",
+    "Entretenimiento",
+    "Servicios",
+    "Otros"
+  ],
+  "methods": [
+    "Efectivo",
+    "Tarjeta",
+    "Transferencia",
+    "Otro"
+  ]
+}
